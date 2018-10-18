@@ -1,2 +1,3 @@
 # netcore-jwt
-.Net Core project with JWT for authorizaion access
+
+.Net Core project with JWT for authorization access
