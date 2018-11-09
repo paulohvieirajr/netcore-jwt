@@ -1,0 +1,15 @@
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\obj\Debug\netcoreapp2.1\JwtToken.csproj.CoreCompileInputs.cache
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\obj\Debug\netcoreapp2.1\JwtToken.AssemblyInfoInputs.cache
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\obj\Debug\netcoreapp2.1\JwtToken.AssemblyInfo.cs
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\bin\Debug\netcoreapp2.1\JwtToken.deps.json
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\bin\Debug\netcoreapp2.1\JwtToken.runtimeconfig.json
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\bin\Debug\netcoreapp2.1\JwtToken.runtimeconfig.dev.json
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\bin\Debug\netcoreapp2.1\JwtToken.dll
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\obj\Debug\netcoreapp2.1\JwtToken.RazorAssemblyInfo.cache
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\obj\Debug\netcoreapp2.1\JwtToken.RazorAssemblyInfo.cs
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\obj\Debug\netcoreapp2.1\JwtToken.RazorTargetAssemblyInfo.cache
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\bin\Debug\netcoreapp2.1\JwtToken.pdb
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\obj\Debug\netcoreapp2.1\JwtToken.dll
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\obj\Debug\netcoreapp2.1\JwtToken.pdb
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\obj\Debug\netcoreapp2.1\JwtToken.csprojAssemblyReference.cache
+C:\Users\paulo.vieira\Downloads\JwtToken\JwtToken\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
